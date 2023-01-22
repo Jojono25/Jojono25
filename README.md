@@ -14,6 +14,7 @@
 
 <div>
 <a ref="https://www.linkedin.com/in/rafael-martins-17b329131/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a ref="https://beacons.ai/jojonotv"><img src="https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white"></a>
 </div>
 
 <!--
