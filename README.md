@@ -1,7 +1,7 @@
 ### Opa! sou Rafael Santiago, estudante e produtor de conteúdo! 🖖
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jojono25&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jojono25&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jojono25&show_icons=true&theme=radical&card_width42%)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jojono25&layout=compact&card_width50%)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
   <img src="https://img.icons8.com/fluency/48/null/html-5.png"/>
